@@ -1,0 +1,18 @@
+std::sqrt( std::pow( x-x_1, 2 ) + std::pow( y-y_1, 2 ) );
+std::sqrt( std::pow( x-x_1, 2 ) + std::pow( y-y_1, 2 ) + std::pow( z-z_1, 2 ) );
+/* ----------------------------------------------------------------------------
+* Copyright &copy; 2015 Ben Blazak <bblazak@fullerton.edu>
+* Released under the [MIT License] (http://opensource.org/licenses/MIT)
+* ------------------------------------------------------------------------- */
+
+/**
+* A short program to print "Hello World!" to standard output.
+*/
+#ifndef POINT_H
+#define POINT_H
+// ----------------------------------------------------------------------------
+
+// ... everything besides the copyright information and file description
+
+// ----------------------------------------------------------------------------
+#endif  // POINT_H
